@@ -1,16 +1,18 @@
 h1{
-    color: black;
-    background-color: aquamarine;
+    color: cornflowerblue;
+    background-color:white;
 }
 p{
-    background-color: cornflowerblue;
-    color: white;
+    color:black;
 }
 li{
-    background-color: blueviolet;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
-div{
-    background-color: grey;
+.memory{
+    background-color: white;
+}
+.devices{
+    background-color: white;
 }
